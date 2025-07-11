@@ -4,7 +4,7 @@ Do you need a fast generator to pick a random number (depending on your desired 
 
 ## ⬇️ Installation
 
-Simply download the file and add it to your IDE project. You can run it directly because the `main` method is already included.
+Simply download the file and add it to your IDE project. You can run it directly because the `main`-method is already included.
 
 ## ❔ Usage
 
